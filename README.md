@@ -1,0 +1,1 @@
+Nesse repositório estão contidos alguns Jupyter Notebook, feitos na disciplina Modelagem Computacional, que modelam algumas situações reais de forma matemática e computacional, acompanhados de exemplos e análises a cerca do tema tratado.
